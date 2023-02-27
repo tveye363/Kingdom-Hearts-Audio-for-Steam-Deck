@@ -1,7 +1,7 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "Kingdom-Hearts-Audio-for-Steam-Deck",
+  "description": "Various audio cues and sound effects from the Kingdom Hearts series.",
+  "author": "tveye363",
   "version": "v1.0",
   "manifest_version": 2,
   "music": false,
